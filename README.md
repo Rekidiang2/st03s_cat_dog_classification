@@ -1,6 +1,6 @@
-# Diabates Prediction (Web App with Streamlit)
+# Cat and dog image classification (Web App with Streamlit)
 
-<img src="https://github.com/RekidiangData-S/wap03s_cat_dog_classification/blob/main/images/Capture_app.PNG" width="1000" height="300" /> https://github.com/RekidiangData-S/wap03s_cat_dog_classification/blob/main/images/Capture_app.PNG
+<img src="" width="1000" height="300" /> https://github.com/RekidiangData-S/wap03s_cat_dog_classification/blob/main/images/Capture_app.PNG
 
 
 In healthcare field diagnose a problem early offer more chance for traitement and guerison in this project we apply machine learning techniques to predict whether a patient will develop diabetes within the next five years. Early detection and diagnosis of diabetes is that the early stages of diabetes are often non-symptomatic. People who are on the path to diabetes (also known as prediabetes) often do not know that they have diabetes until it is too late.

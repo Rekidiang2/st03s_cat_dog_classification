@@ -1,0 +1,12 @@
+name: wap01s_venv
+dependencies:
+  - python==3.9
+  - numpy==1.21.2
+  - pandas==1.3.2
+  - matplotlib==3.0.2
+  - seaborn==0.9.0
+  - scikit-learn==0.22.1
+  - streamlit==0.61.0
+  - Pillow==8.3.2
+  - pip
+  

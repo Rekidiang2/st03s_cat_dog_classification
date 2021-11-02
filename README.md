@@ -1,4 +1,4 @@
-# Diabates Prediction (WebApp)
+# Diabates Prediction (Web App with Streamlit)
 
 <img src="/images/capture_app.jpg" width="1000" height="300" />
 
@@ -54,7 +54,7 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 + $ conda env create -f environment.yml
 + $ conda activate wap01s_venv <= Activate virtual Environment
-+ + $ conda deactivate  <= Deactivate virtual Environment
++ $ conda deactivate  <= Deactivate virtual Environment
 
 #### 3.2.2. WITH PIP
 

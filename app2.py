@@ -41,10 +41,9 @@ def main():
         #st.title("Home")
         home()
     elif choice == "Dog & Cat Galerie":
-        st.subheader("Insert patient identity  and symptoms measurement")
         galerie()
     elif choice == "Training Info":
-        st.header("Data Analysis and model trainig process")
+        st.header("Model Training Info")
         training_info()
     elif choice == "About":
         #st.title("About")

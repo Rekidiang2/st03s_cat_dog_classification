@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
+from PIL import Image, ImageOps
 import pandas as pd
 import keras
 #import cv2 as cv
